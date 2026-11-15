@@ -17,21 +17,61 @@ The project pairs arcade-accessible controls with rigorous physical grounding: a
 
 ---
 
-## 🖼️ Gameplay Preview
+## 🖼️ In-Engine Gameplay Gallery
 
-```
-+-------------------------------------------------------------------------+
-|                                                                         |
-|                     [ SCREENSHOT PLACEHOLDER ]                          |
-|                                                                         |
-|     Recommended Screenshot: Junior Astronaut at Moon Base Alpha with     |
-|     the Lunar Rover parked near the Solar Array under Earthrise.        |
-|                                                                         |
-|     Path: assets/screenshots/screenshot_cleaned_lunar_environment.jpg    |
-|                                                                         |
-+-------------------------------------------------------------------------+
-```
-*(See [assets/screenshots/README.md](assets/screenshots/README.md) for full image staging instructions).*
+Below are authentic gameplay captures recorded directly from **ASTROVERSE** running in Roblox Studio (`ASTROVERSE_Final_Rover_StoneFix.rbxl`), showcasing the handwritten sketchbook UI, lunar rover exploration, base outpost, space weather monitoring, and historic memorials:
+
+---
+
+### 1. Main Menu & Junior Astronaut Journal
+![ASTROVERSE Welcome Screen](assets/screenshots/01-main-menu.png)
+*The handwritten mission journal welcome card rendered in warm cream paper (`#F8F4E8`) with notebook margins, washi tape accents, Google Fonts typography (`Kalam` and `Patrick Hand`), and the golden `LET'S EXPLORE THE MOON 🌟` launch button.*
+
+---
+
+### 2. Moon Base Alpha Outpost
+![Moon Base Alpha Outpost](assets/screenshots/02-lunar-base.png)
+*Panoramic view of Moon Base Alpha across the lunar crater basin, featuring the central habitat hub, pressurized airlock, dual solar tracking arrays, rocket landing pad, historic memorial flags, and the vertical holographic mission beacon.*
+
+---
+
+### 3. Astronaut Lunar Exploration
+![Astronaut Lunar Exploration](assets/screenshots/03-astronaut-exploration.png)
+*Junior astronaut in full EVA spacesuit traversing the low-gravity lunar regolith (`32.4 studs/s²`), navigating between crater rims, boulder fields, and scientific outpost installations under high-contrast solar illumination.*
+
+---
+
+### 4. Scientific 6-Wheeled Lunar Rover
+![Scientific Lunar Rover](assets/screenshots/04-lunar-rover.png)
+*Close-up of the custom 6-wheel lunar exploration rover featuring independent spring suspension, tubular roll cage, high-intensity dual LED headlights, scientific sensor mast, dynamic lunar downforce (`500–2400 N`), and dual-stage anti-flip gyroscopic recovery.*
+
+---
+
+### 5. Aerial Overview Camera
+![Aerial Overview Camera](assets/screenshots/05-aerial-overview.png)
+*High-altitude tactical bird's-eye observation perspective (`Alt: 215 studs`, coordinates `(4, 215, 65)`) overlooking Moon Base Alpha with the active `AerialOverviewUI` card and smooth cubic bezier camera transitions.*
+
+---
+
+### 6. Handwritten Mission Journal Briefing
+![Mission Journal Briefing](assets/screenshots/06-mission-journal.png)
+*Tactile Mission Briefing card for Mission 1 (`POWER THE MOON BASE`), demonstrating interactive hold-action mechanics (`Hold [E] for 1.5s`), NASA aerospace science learning goals, and authentic astronaut diary aesthetics.*
+
+---
+
+### 7. NASA CCMC Space Weather Watch
+![NASA Space Weather Watch](assets/screenshots/07-solar-weather-watch.png)
+*Mission 5 central control desk interface showing genuine integration with the NASA Community Coordinated Modeling Center (CCMC) DONKI API, displaying verified Solar Cycle 25 Sunspot AR3664 Class M2.5 solar flare data and radiation shelter protocols.*
+
+---
+
+### 8. Chandrayaan-3 Tiranga Memorial
+![Chandrayaan-3 Tiranga Memorial](assets/screenshots/08-chandrayaan-memorial.png)
+*Commemorative lunar south pole landing site paying tribute to ISRO's historic Chandrayaan-3 mission, featuring the lunar lander plinth, educational plaque, and the Indian Tricolor flag (Tiranga) planted on the lunar surface.*
+
+---
+
+*(See [assets/screenshots/README.md](assets/screenshots/README.md) for full image specifications, SHA-256 hashes, and in-engine capture verification metrics).*
 
 ---
 
