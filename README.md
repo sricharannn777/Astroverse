@@ -5,8 +5,6 @@
 [![Luau](https://img.shields.io/badge/Language-Luau-00A2FF?logo=lua&logoColor=white)](https://luau-lang.org/)
 [![Project Status](https://img.shields.io/badge/Status-Release%20Ready%20(Phase%208E)-brightgreen)](docs/TESTING_AND_QA.md)
 [![NASA Space Apps](https://img.shields.io/badge/NASA%20Space%20Apps-Challenge%202026-blue)](https://www.spaceappschallenge.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
 ---
 
 ## 📖 Project Summary
@@ -197,4 +195,4 @@ Explore detailed subsystem specifications:
 
 ## 📄 License
 
-This project is distributed under the **MIT License**. See [LICENSE](LICENSE) for full terms and copyright notices.
+License terms are pending approval. See repository owner for current licensing status.
