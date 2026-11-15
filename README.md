@@ -1,6 +1,10 @@
 # ASTROVERSE 🚀
 ### Educational Lunar Mission-Training Experience for Junior Astronauts
 
+FREE ROBLOX ACCOUNT TO TEST THE GAME :
+ID : test_astroverse
+PASSWORD : test@astroverse
+
 [![Roblox Engine](https://img.shields.io/badge/Roblox-Engine%2063eb605-00A2FF?logo=roblox&logoColor=white)](https://www.roblox.com)
 [![Luau](https://img.shields.io/badge/Language-Luau-00A2FF?logo=lua&logoColor=white)](https://luau-lang.org/)
 [![Project Status](https://img.shields.io/badge/Status-Release%20Ready%20(Phase%208E)-brightgreen)](docs/TESTING_AND_QA.md)
