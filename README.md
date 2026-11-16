@@ -1,6 +1,8 @@
 # ASTROVERSE 🚀
 ### Educational Lunar Mission-Training Experience for Junior Astronauts
 
+GAME : https://www.roblox.com/share?code=91844ade9e9aaf4da9c943131b384942&type=ExperienceDetails&stamp=1794748021324
+
 FREE ROBLOX ACCOUNT TO TEST THE GAME :
 ID : "test_astroverse"
 PASSWORD : "test@astroverse"
